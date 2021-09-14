@@ -1,2 +1,2 @@
 # JS-Advanced
-Upload exercises from JS Advaned course and JS Applications course.
+Upload exercises from JS Advanced course and JS Applications course.
