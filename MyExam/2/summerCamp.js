@@ -20,7 +20,7 @@ class SummerCamp{
         const participant = {
             name : name,
             condition : condition,
-            power : 0,
+            power : 100,
             wins : 0
         };
 
