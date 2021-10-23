@@ -6,8 +6,6 @@ function createCalculator() {
         get: function() { return value; }
     }
 }
-let obj = createCalculator();
 
-console.log(obj.get());
 
 module.exports = createCalculator;
