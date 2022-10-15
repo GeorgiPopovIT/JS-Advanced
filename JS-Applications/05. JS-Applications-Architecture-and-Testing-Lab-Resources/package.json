@@ -1,0 +1,18 @@
+{
+  "name": "05.-js-applications-architecture-and-testing-lab-resources",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "playwright-chromium": "^1.16.3"
+  },
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.3"
+  }
+}
