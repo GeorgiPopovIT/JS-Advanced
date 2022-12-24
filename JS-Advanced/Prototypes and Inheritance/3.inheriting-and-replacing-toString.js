@@ -5,7 +5,8 @@ function toStringExtension(){
             this.email = email;
         }
         toString(){
-            return `${this.constructor.name} (name: ${this.name}, email: ${this.email})`;
+            let className = this.constructor.name;
+            return `${className} (name: ${this.name}, email: ${this.email})`;
         }
     }
     class Teacher extends Person{
