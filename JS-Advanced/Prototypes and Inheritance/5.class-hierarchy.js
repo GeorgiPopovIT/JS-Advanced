@@ -13,7 +13,7 @@ class Figure{
         else if(this.units == 'mm'){
             value *= 10;
         }
-
+        
         return value;
     }
 
